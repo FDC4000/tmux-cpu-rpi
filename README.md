@@ -3,5 +3,10 @@ Enhance tmux-cpu plugin for Raspberry Pi
 
 ## Installation
 
-Copy Files to ~/.tmux/plugins/tmux-cpu/scripts
-This will replace cpu_temp.sh.
+	Copy Files to ~/.tmux/plugins/tmux-cpu/scripts.
+	This will replace cpu_temp.sh.
+
+OR
+
+	Run install.sh:
+		sh ./install.sh
